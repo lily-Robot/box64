@@ -1053,7 +1053,7 @@ endif()
 
 # RPM-specific settings
 set(CPACK_RPM_PACKAGE_REQUIRES "glibc")
-set(CPACK_RPM_PACKAGE_LICENSE "GPL")
+set(CPACK_RPM_PACKAGE_LICENSE "MIT")
 set(CPACK_RPM_PACKAGE_GROUP "Applications/Emulators")
 
 # Version settings
